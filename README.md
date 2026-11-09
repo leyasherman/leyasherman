@@ -6,7 +6,7 @@ I’m a UCL MSc Business Analytics graduate with an Economics and Finance backgr
 
 Seeking **permanent opportunities in London** across data analytics/data science, finance and financial analytics, AI/ML, software engineering, and business analytics/strategy.
 
-[Portfolio](https://leyasherman.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/leya-sherman) · [Email](mailto:namresh.leya2003@gmail.com) · [Previous portfolio](https://leyasherman.github.io/)
+[Portfolio](https://leyasherman.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/leya-sherman) · [Email](mailto:namresh.leya2003@gmail.com)
 
 ## Selected projects
 
@@ -20,15 +20,11 @@ Seeking **permanent opportunities in London** across data analytics/data science
 | [Wembley Transport Analytics](https://github.com/leyasherman/wembley-transport-business-analytics) | Event-related station demand analysis, OLS regression and an illustrative shuttle scenario. Its 20% reduction is an assumption, not an observed outcome. |
 | [AI Coding Agents Benchmark](https://github.com/leyasherman/ai-coding-agents-benchmark) | Group coursework assessing coding tools on preparation, modelling, leakage detection, debugging and EDA. Scores describe the recorded study, not a general product ranking. |
 
-## Working toolkit
+## Technologies represented in these projects
 
-- **Analysis & finance:** Python, SQL, R, advanced Excel, Power Query, financial modelling and forecasting.
+- **Analysis:** Python, SQL, R, pandas and NumPy.
 - **Machine learning & NLP:** pandas, NumPy, scikit-learn, XGBoost, PyTorch and Hugging Face Transformers.
 - **Data & applications:** PySpark, S3, TypeScript, Three.js, Git and Docker.
-- **Business work:** FP&A, profitability analysis, reporting, stakeholder coordination and translating findings into decisions.
+
 
 The repositories distinguish individual and group work, document available results and explain missing data or infrastructure. Coursework prototypes and experimental findings are presented with their limitations; a source repository does not imply a hosted application.
-
-## Background
-
-My experience includes FP&A at ALFA-BANK and business development in real estate, alongside an academic foundation in Economics and Finance and an MSc in Business Analytics at UCL. I bring financial context to technical analysis and enjoy work that connects modelling, implementation and business decisions.
