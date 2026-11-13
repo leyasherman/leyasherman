@@ -19,7 +19,7 @@ Seeking **permanent opportunities in London**, with a focus on data analytics an
 | [London Property & Safety](https://github.com/leyasherman/london-property-safety-data-engineering) | Group data engineering coursework using Python, PySpark, S3 and Parquet. My role: project planning, documentation, coordination and the analytical narrative. |
 | [Wembley Transport Analytics](https://github.com/leyasherman/wembley-transport-business-analytics) | Event-related station demand analysis, OLS regression and an illustrative shuttle scenario. Its 20% reduction is an assumption, not an observed outcome. |
 | [Zorlu Enerji Generation](https://github.com/leyasherman/zorlu-enerji-generation) | Plant-level monthly electricity generation data from EPİAŞ, with documented source definitions and coverage. |
-| [FPV Drone Simulator](https://github.com/leyasherman/Drone-simulator) | TypeScript/Three.js browser simulator with keyboard and gamepad controls and guided flight practice. [Open live simulator](https://drone-simulator-tan.vercel.app/) on desktop. |
+| [FPV Flight Simulator](https://github.com/leyasherman/Drone-simulator) | TypeScript/Three.js browser simulator with keyboard and gamepad controls and guided flight practice. [Open live simulator](https://drone-simulator-tan.vercel.app/) on desktop. |
 | [AI Coding Agents Benchmark](https://github.com/leyasherman/ai-coding-agents-benchmark) | Group coursework assessing coding tools on preparation, modelling, leakage detection, debugging and EDA. Scores describe the recorded study, not a general product ranking. |
 
 ## Experience
